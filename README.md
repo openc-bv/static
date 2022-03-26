@@ -1,6 +1,6 @@
 # Static
 
-This repository holds shared static assets used on OpenC websites.
+This repository holds shared static assets used on OpenC websites that are served on [static.openc.nl](https://static.openc.nl).
 
 ## Contents
 
